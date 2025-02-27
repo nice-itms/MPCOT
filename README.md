@@ -13,3 +13,7 @@ The **NiCE MP Catalog Offline Toolkit (MPCOT)** is a tool designed to enable the
 - **Stay in Control**: Even if you could use the online catalog (for systems with internet access) this tool can help you stay in control. Use the `Version Comparison` feature and then decide what to update.
  
 The **NiCE MP Catalog Offline Toolkit** streamlines the process of maintaining and updating your SCOM environment, providing a seamless and reliable solution for offline operations.
+
+## Releases
+
+You may find all releases of the **NiCE MP Catalog Offline Toolkit** [here](https://github.com/nice-itms/MPCOT/releases/latest) or you may use the link to directly download the latest [NiCE.MPCatalogOfflineToolkit-WithDoc.zip](https://github.com/nice-itms/MPCOT/releases/latest/download/NiCE.MPCatalogOfflineToolkit-WithDoc.zip).
